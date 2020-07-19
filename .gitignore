@@ -4,12 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/client-react-apollo/node_modules
 # testing
-/coverage
+/client-react-apollo/coverage
 
 # production
-/build
+/client-react-apollo/build
 
 # misc
 .DS_Store
