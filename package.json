@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-graphql",
+  "version": "1.0.0",
+  "description": "This is a sample project of a fullstack app with GraphQL server.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "GraphQL",
+    "Node.js",
+    "React.js",
+    "Fullstack",
+    "development"
+  ],
+  "author": "Tien Pham",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.16.0",
+    "axios": "^0.19.2",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
