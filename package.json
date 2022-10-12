@@ -16,7 +16,7 @@
   "author": "Tien Pham",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.16.0",
+    "apollo-server": "^2.25.4",
     "axios": "^0.19.2",
     "graphql": "^15.3.0"
   },
